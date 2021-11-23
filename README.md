@@ -2,7 +2,7 @@
 Maven archetype repo for java 1.8 projects with main class and fat jar
 
 ## How to use
-install archetype with
+clone repo and install archetype with
 
 > mvn install
 
