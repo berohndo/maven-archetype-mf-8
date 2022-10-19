@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 if [ $# -ne 2 ] && [ $# -ne 3 ] 
 then
